@@ -1,8 +1,8 @@
 package main
 
 import (
-	"khigor777/algorithms/lib"
 	"fmt"
+	"khigor777/algorithms/lib"
 )
 
 func main() {

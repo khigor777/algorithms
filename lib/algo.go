@@ -9,9 +9,9 @@ func BinarySearch(item int, lists []int) int {
 		if item == f {
 			return m
 		}
-		if f > item{
+		if f > item {
 			h = m - 1
-		}else{
+		} else {
 			l = m + 1
 		}
 	}
